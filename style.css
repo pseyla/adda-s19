@@ -5,7 +5,12 @@ p{
 
 }
 
+body{
+  text-align: center;
+}
 div{
+width: 400;
+height: 400;
 
 
 }
