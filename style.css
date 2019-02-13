@@ -9,9 +9,11 @@ body{
   text-align: center;
 }
 div{
-width: 400;
-height: 400;
-
+border-top: 400;
+border-bottom: 400;
+border-left: 400;
+border-right: 400;
+border-color: pink; 
 
 }
 .special{
