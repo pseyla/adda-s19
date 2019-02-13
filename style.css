@@ -5,15 +5,12 @@ p{
 
 }
 
-body{
-  text-align: center;
-}
+
 div{
-border-top: 400;
-border-bottom: 400;
-border-left: 400;
-border-right: 400;
-border-color: pink; 
+   width: 300px;
+   border: 25px solid green;
+   padding: 25px;
+   margin: 25px;
 
 }
 .special{
