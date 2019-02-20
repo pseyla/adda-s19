@@ -1,0 +1,24 @@
+/*stylesheet for aboutMe page*/
+
+body {
+  background-color: ;
+  font-family: ;
+  padding: ;
+  font-size: ;
+  color: ;
+}
+
+h1, h3 {
+  color: ;
+}
+
+h1 {
+  text-align: center;
+  font-family: ;
+  font-size: ;
+}
+
+img {
+  width: 150px;
+  border-radius: 100%;
+}
